@@ -1,0 +1,11 @@
+{
+  "name": "AMD Coin",
+  "symbol": "AMD",
+  "type": "BEP20",
+  "decimals": 18,
+  "website": "https://amdcoin.fun",
+  "description": "AMD Coin is a decentralized cryptocurrency deployed on the Binance Smart Chain (BEP-20).",
+  "explorer": "https://bscscan.com/token/0x2d5D369200d272D81Dff4b5d86fE1d5e3E8fFfe4",
+  "status": "active",
+  "id": "0x2d5D369200d272D81Dff4b5d86fE1d5e3E8fFfe4"
+}
